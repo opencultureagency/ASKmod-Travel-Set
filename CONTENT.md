@@ -6,7 +6,7 @@
 
 ## Travel Set
 
-![#ASKmod Travel Set](https://github.com/opencultureagency/ASKmod-Travel-Set/blob/f9ebd2bf247bf1a18f2b3f3d147aa10bb3b52500/images/ASKmod-Travel-Set.jpg)
+![#ASKmod Travel Set](https://raw.githubusercontent.com/opencultureagency/ASKmod-Travel-Set/f9ebd2bf247bf1a18f2b3f3d147aa10bb3b52500/images/ASKmod-Travel-Set.jpg)
 
 ## Items
 
