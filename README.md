@@ -2,9 +2,9 @@
 
 #ASKmod is a part of the #ASKotec project: [Official Website](https://askotec.openculture.agency)
 
+The Travel Set includes all electronic devices that can be taken on a flight only in the hand luggage.
 
-
-![#ASKmod Travel Set](/images/ASKmod-Travel-Set.jpg)
+![#ASKmod Travel Set](images/ASKmod-Travel-Set.jpg)
 
 ### [View product in #ASKotec Stockroom](https://askotec.openculture.agency/product/askmod-travel-set/)
 
@@ -19,7 +19,7 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
-- [v.1.0](https://github.com/opencultureagency/ASKmod-Travel-Set/tree/v.1.0.0): [content file](CONTENT.md)
+- [v.1.0.0](https://github.com/opencultureagency/ASKmod-Travel-Set/tree/v.1.0.0): [content file](CONTENT.md)
 
 ## Contributers
 
