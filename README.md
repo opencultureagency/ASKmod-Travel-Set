@@ -19,6 +19,7 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
+- [v.1.1.0](https://github.com/opencultureagency/ASKmod-Travel-Set/tree/v.1.1.0): removed HyracBox [content file](CONTENT.md)
 - [v.1.0.0](https://github.com/opencultureagency/ASKmod-Travel-Set/tree/v.1.0.0): [content file](CONTENT.md)
 
 ## Contributers
