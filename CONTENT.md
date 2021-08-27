@@ -1,6 +1,6 @@
 # #ASKmod Content
 
-| Version: | 1.0.0        |
+| Version: | 1.1.0        |
 | -------- | ------------ |
 | License: | [CC-BY-SA 4.0](LICENSE.md) |
 
@@ -17,7 +17,6 @@
 - 1x [LED Headlight](https://askotec.openculture.agency/product/led-headlight/)
 - 8x [Rechargeable Batteries](https://askotec.openculture.agency/product/rechargeable-batteries-pack-of-4/)
 - 2x [Battery case for 4x AA batteries](https://askotec.openculture.agency/product/battery-case-for-4-aa-batteries/)
-- 1x [HyracBox](https://askotec.openculture.agency/product/hyracbox/)
 - 1x [Laptop | Dell E7240 | OS: Zorin OS 15](https://askotec.openculture.agency/product/laptop-dell-e7240-os-zorin-os-15/)
 - 1x [Laptop Keyboard Stickers QWERTY](https://askotec.openculture.agency/product/keyboard-replacement-stickers-usa-layout/)
 - 1x [Laptop Sleeve 11,6“](https://askotec.openculture.agency/product/notebook-sleeve-116/)
