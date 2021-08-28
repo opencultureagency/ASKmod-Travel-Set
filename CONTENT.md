@@ -1,12 +1,12 @@
 # #ASKmod Content
 
-| Version: | 1.1.0        |
+| Version: | 1.1.1        |
 | -------- | ------------ |
 | License: | [CC-BY-SA 4.0](LICENSE.md) |
 
 ## Travel Set
 
-![#ASKmod Travel Set](https://raw.githubusercontent.com/opencultureagency/ASKmod-Travel-Set/f9ebd2bf247bf1a18f2b3f3d147aa10bb3b52500/images/ASKmod-Travel-Set.jpg)
+![#ASKmod Travel Set](images/ASKmod-Travel-Set.jpg)
 
 ## Items
 
@@ -24,4 +24,4 @@
 
 ## Reference
 
-GitHub Repository: https://github.com/opencultureagency/ASKmod-Travel-Set
+GitHub Repository: https://github.com/opencultureagency/ASKmod-Travel-Se1
